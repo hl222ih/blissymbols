@@ -26,6 +26,7 @@ BLISS_CHAR_DATA = {
 		"fur,coat_(animal),hair_(animal)": -8,
 		"giraffe": -32,
 		"goat": -16,
+		"hand": 32,
 		"hedgehog_(OLD)": 32,
 		"help,aid,assistance,support": 16,
         "hip": -32,
