@@ -53,7 +53,6 @@ BLISS_WORD_DATA = {
 		"adventure": ["play,game_(in_combinations)","expectation,anticipation","intensity","intensity"],
 		"adventure_(OLD)": ["activity,male_gender_(in_combinations)","future_(uncertain)","excitement"],
 		"adventurous": ["adventure","indicator_(description)"],
-		"adversity,hardship,setback": ["forward","opposing_forces,counter-forces"],
 		"advertisement": ["paper,card,page","attention"],
 		"advice,counsel,recommendation": ["suggestion,proposal","help,aid,assistance,support"],
 		"advise,counsel,recommend-(to)": ["advice,counsel,recommendation","indicator_(action)"],
