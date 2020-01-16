@@ -60,6 +60,7 @@ BLISS_CHAR_DATA = {
 		"portability": -32,
 		"projector": -32,
 		"pull,pulling": -32,
+		"push,pushing": 64,
 		"return": 16,
 		"rhinoceros": -64,
 		"roller_skates": -32,
