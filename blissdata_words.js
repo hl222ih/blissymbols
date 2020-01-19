@@ -4386,7 +4386,6 @@ BLISS_WORD_DATA = {
 		"unless": ["but,except","or"],
 		"untrue,false": ["untruth,falsity,falsehood","indicator_(description)"],
 		"untruth,falsity,falsehood": ["minus,no,without","truth"],
-		"up_and_down_(OLD)": ["up,upward","down,downward"],
 		"upload": ["giving,gift","digits_(computer)"],
 		"upload-(to)": ["upload","indicator_(action)"],
 		"upper_arm": ["arm","over,above,superior"],
